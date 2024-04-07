@@ -1,3 +1,6 @@
+in Dijkstra's we always require a priority queue and dist array
+
+
 class Solution {
     // Function to find the shortest distance of all the vertices
     // from the source vertex S.
