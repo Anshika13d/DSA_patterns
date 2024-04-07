@@ -1,0 +1,3 @@
+in dijkstra's algo we require:
+ priority queue
+ dist array
