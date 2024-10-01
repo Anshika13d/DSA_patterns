@@ -1,0 +1,5 @@
+Right shift: right shift by k
+    num / 2^k
+
+Left shift: left shift by k
+    num * 2^k
