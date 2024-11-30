@@ -1,0 +1,7 @@
+to detect euler circuit in DG:
+- count the indegrees and outdegrees of each node, there will exactly be 2 nodes which will have this-
+- if(outdegree[node] - indegree[node] == 1) -> source
+- if(indegree[node] - outdegree[node] == 1) -> destination
+- all the other nodes have indegree[node] == outdegree[node]
+
+* if its a eulerian circuit any node can be the starting point
